@@ -1,0 +1,21 @@
+D:\macro tn sw\FormManageArea\AreaAddForm\AreaAddForm\bin\Debug\AreaAddForm.exe.config
+D:\macro tn sw\FormManageArea\AreaAddForm\AreaAddForm\bin\Debug\AreaAddForm.exe
+D:\macro tn sw\FormManageArea\AreaAddForm\AreaAddForm\bin\Debug\AreaAddForm.pdb
+D:\macro tn sw\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.csprojResolveAssemblyReference.cache
+D:\macro tn sw\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.Form1.resources
+D:\macro tn sw\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.Properties.Resources.resources
+D:\macro tn sw\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.csproj.GenerateResource.Cache
+D:\macro tn sw\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.exe
+D:\macro tn sw\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.pdb
+D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\bin\Debug\AreaAddForm.exe.config
+D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.exe
+D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.pdb
+D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\bin\Debug\AreaAddForm.exe
+D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\bin\Debug\AreaAddForm.pdb
+D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.csprojResolveAssemblyReference.cache
+D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.Form1.resources
+D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.Properties.Resources.resources
+D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.csproj.GenerateResource.Cache
+D:\thuctap\FormManageArea\AreaAddForm\AreaAddForm\bin\Debug\AreaAddForm.exe.config
+D:\thuctap\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.exe
+D:\thuctap\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.pdb
