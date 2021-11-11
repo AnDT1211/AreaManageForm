@@ -1,13 +1,7 @@
 ﻿using SolidWorks.Interop.sldworks;
 using SolidWorks.Interop.swconst;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 
 namespace AreaAddForm
@@ -38,16 +32,16 @@ namespace AreaAddForm
 
         int custPropType;
         string[] listItem;
-        public void khoitaoComboBox()
-        {
-            listItem = new string[] { "Loại sơn 1", "Loại sơn 2", "Loại sơn 3", "Loại sơn 4" };
-            foreach (var item in listItem)
-            {
-                comboBox1.Items.Add(item);
-            }
-            comboBox1.SelectedItem = listItem[0];
+        //public void khoitaoComboBox()
+        //{
+        //    listItem = new string[] { "" };
+        //    foreach (var item in listItem)
+        //    {
+        //        comboBox1.Items.Add(item);
+        //    }
+        //    comboBox1.SelectedItem = listItem[0];
             
-        }
+        //}
 
         public void setDefProp()
         {
@@ -91,9 +85,6 @@ namespace AreaAddForm
         public Form1()
         {
             InitializeComponent();
-
-            khoitaoComboBox();
-            setDefProp();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -176,6 +167,32 @@ namespace AreaAddForm
         private void button3_Click(object sender, EventArgs e)
         {
             setDefProp();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog fileTxt = new OpenFileDialog();
+
+            if (fileTxt.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                MessageBox.Show("Đã chọn nguồn property ở file " + fileTxt.FileName);
+                String filePath = fileTxt.FileName;
+                listItem = File.ReadAllLines(filePath);
+
+                comboBox1.Items.Clear();
+
+                foreach (var item in listItem)
+                {
+                    comboBox1.Items.Add(item);
+                }
+                comboBox1.SelectedItem = listItem[0];
+                
+                setDefProp();
+            }
+            else
+            {
+                //MessageBox.Show("File not selected.");
+            }
         }
     }
 }

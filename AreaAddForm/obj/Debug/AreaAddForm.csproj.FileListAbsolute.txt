@@ -19,3 +19,12 @@ D:\thuctap\Project\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.
 D:\thuctap\FormManageArea\AreaAddForm\AreaAddForm\bin\Debug\AreaAddForm.exe.config
 D:\thuctap\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.exe
 D:\thuctap\FormManageArea\AreaAddForm\AreaAddForm\obj\Debug\AreaAddForm.pdb
+D:\thuctap\project\P1\AreaAddForm\bin\Debug\AreaAddForm.exe.config
+D:\thuctap\project\P1\AreaAddForm\obj\Debug\AreaAddForm.exe
+D:\thuctap\project\P1\AreaAddForm\obj\Debug\AreaAddForm.pdb
+D:\thuctap\project\P1\AreaAddForm\obj\Debug\AreaAddForm.csprojResolveAssemblyReference.cache
+D:\thuctap\project\P1\AreaAddForm\obj\Debug\AreaAddForm.Properties.Resources.resources
+D:\thuctap\project\P1\AreaAddForm\obj\Debug\AreaAddForm.csproj.GenerateResource.Cache
+D:\thuctap\project\P1\AreaAddForm\bin\Debug\AreaAddForm.exe
+D:\thuctap\project\P1\AreaAddForm\bin\Debug\AreaAddForm.pdb
+D:\thuctap\project\P1\AreaAddForm\obj\Debug\AreaAddForm.Form1.resources
